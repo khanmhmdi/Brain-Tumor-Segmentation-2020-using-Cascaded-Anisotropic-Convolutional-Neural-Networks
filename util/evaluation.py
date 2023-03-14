@@ -11,7 +11,7 @@
 from __future__ import absolute_import, print_function
 import os
 import sys
-sys.path.append('./')
+sys.path.append('/')
 import numpy as np
 from .data_process import load_3d_volume_as_array, binary_dice3d
 
